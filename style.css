@@ -1,0 +1,40 @@
+body{
+    background-color: #212121;
+    color: white;
+    font-family: 'Helvetica', 'Aerial', 'sans serif';
+    padding: 20px;
+    margin: 20px;
+    
+}
+
+h1{
+    color: rgb(255, 217, 0);
+    font-size: 45px;
+    text-align: center;
+}
+
+h3,h3,h3{
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+p{
+    margin: auto;
+    font-size: 17px;
+    text-align: none;
+}
+
+a{
+    color: rgb(255, 217, 0);
+    text-decoration: none;
+    margin-right: 15px;
+}
+ol{
+    
+    font-size: 16px;
+}
+
+ul{
+    font-size: 16px;
+}
+
